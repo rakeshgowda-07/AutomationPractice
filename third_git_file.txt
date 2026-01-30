@@ -1,1 +1,1 @@
-Adding third file to the repository
+Updating third file to the repository
